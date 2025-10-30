@@ -1,6 +1,6 @@
 Hi👋🏼
 I'm G Santosh Kumar. 
-Data, AI & ML Architect at Cloud Ambassadors. Transitioning to become a better AI Engineer & a leader. 
+Data, AI & ML Architect at Cloud Ambassadors. Transitioning to become a better AI leader. 
 [Cloud Ambassadors](https://cloudambassadors.com) is a premium partner to Google Cloud Platform. We build service leveraging GCP and deploy to clients. We are expertised in GenAI Applications, Machine Learning, Data Engineering, Data Migration & Cloud Infra Migrations. We are the Trusted go to partner from Google cloud Platform. 
 
 My Contributions :
