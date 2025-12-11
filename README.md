@@ -111,7 +111,7 @@ A fun App that generates sprite sheet image using Gemini nano Banana🍌model an
   </tr>
 </table>
 
-<p align="center">
+<p >
   <img src="https://raw.githubusercontent.com/santosh-kumar-g-cloudambassadors/santosh-kumar-g-cloudambassadors/main/gifs.gif" alt="Animated GIF's" title="Animated GIF's" />
 </p>
 
@@ -137,3 +137,58 @@ AI-Powered Image and Video Generation Studio 🕹️ (Photoshop Agent & Video ge
     </td>
   </tr>
 </table>
+
+<hr>
+
+- **Occupancy Analytics, People Tracking GCP Veretx AI kubeflow Pipeline Development**
+a comprehensive MLOps-IOT platform designed for automated video surveillance and person detection in public and workplace environments. The platform leverages computer vision, machine learning, and cloud infrastructure to provide intelligent monitoring solutions that can identify different categories of people (children, adults by gender, and employees) in real-time video streams. The platform automates the process of training, deploying, and maintaining computer vision models for workplace surveillance. It transforms raw video data into actionable insights while continuously improving model accuracy through automated retraining pipelines.
+
+
+<table>
+  <tr>
+  <td>
+    <img wi<img width="1096" height="621"  alt="linkers_pipeline-1" src="https://github.com/user-attachments/assets/2db50acd-95db-48a1-9408-9181faa71bf9" />
+  </td>
+  <td>
+    <img width="1144" height="739"  alt="linkers_pipeline-2" src="https://github.com/user-attachments/assets/b17e3da8-b0e8-4b6e-9bc9-fb791c654292" />
+</td>
+</tr>
+  
+  <tr>
+  <td>
+    <img width="604" height="688"  alt="linkers_pipeline-3" src="https://github.com/user-attachments/assets/43f822d3-8755-459e-93a6-d457b09819ab" />
+  </td>
+  <td>
+    <img width="700" height="730"  alt="linkers_pipeline-4" src="https://github.com/user-attachments/assets/7b9bb23e-0bd2-49f8-b601-caa417c2841d" />
+  </td>
+  </tr>
+  
+  <tr>
+  <td>
+    <img width="579" height="736"  alt="linkers_pipeline-5" src="https://github.com/user-attachments/assets/cbfee791-780a-4966-bbeb-7bdf0ec08f36" />
+  </td>
+  <td>
+    <img width="366" height="674"  alt="linkers_pipeline-6" src="https://github.com/user-attachments/assets/4d56de5b-2425-490d-a5b0-4cbbb80303c4" />
+  </td>
+  </tr>
+</table>
+
+<hr>
+
+- **boxsand coder agent**
+Coder Agent is an intelligent developer assistant built using Pydantic AI, designed to help automate everyday coding, project management, and filesystem tasks.
+The interface looks like a VS Code–style workspace with a split layout:
+  - Chat panel (left) where you interact with the agent
+  - Code editor (right) that shows generated or modified files
+  - Explorer panel (left sidebar) listing project files
+  - Activity Log (bottom right) showing applied actions
+  - Backend logs (bottom) for system-level events
+
+<table>
+  <tr>
+    <td>
+      <img width="1902" height="897" alt="image" src="https://github.com/user-attachments/assets/e781edeb-a3de-4130-8112-b14ead46a698" />
+    </td>
+</tr>
+</table>
+
