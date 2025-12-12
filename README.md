@@ -111,7 +111,7 @@ A fun App that generates sprite sheet image using Gemini nano Banana🍌model an
   </tr>
 </table>
 
-<p >
+<p align="center">
   <img src="https://raw.githubusercontent.com/santosh-kumar-g-cloudambassadors/santosh-kumar-g-cloudambassadors/main/gifs.gif" alt="Animated GIF's" title="Animated GIF's" />
 </p>
 
@@ -146,28 +146,28 @@ a comprehensive MLOps-IOT platform designed for automated video surveillance and
 
 <table>
   <tr>
-  <td>
+  <td align="center">
     <img wi<img width="1096" height="621"  alt="linkers_pipeline-1" src="https://github.com/user-attachments/assets/2db50acd-95db-48a1-9408-9181faa71bf9" />
   </td>
-  <td>
+  <td align="center">
     <img width="1144" height="739"  alt="linkers_pipeline-2" src="https://github.com/user-attachments/assets/b17e3da8-b0e8-4b6e-9bc9-fb791c654292" />
 </td>
 </tr>
   
   <tr>
-  <td>
+  <td align="center">
     <img width="604" height="688"  alt="linkers_pipeline-3" src="https://github.com/user-attachments/assets/43f822d3-8755-459e-93a6-d457b09819ab" />
   </td>
-  <td>
+  <td align="center">
     <img width="700" height="730"  alt="linkers_pipeline-4" src="https://github.com/user-attachments/assets/7b9bb23e-0bd2-49f8-b601-caa417c2841d" />
   </td>
   </tr>
   
   <tr>
-  <td>
+  <td align="center">
     <img width="579" height="736"  alt="linkers_pipeline-5" src="https://github.com/user-attachments/assets/cbfee791-780a-4966-bbeb-7bdf0ec08f36" />
   </td>
-  <td>
+  <td align="center">
     <img width="366" height="674"  alt="linkers_pipeline-6" src="https://github.com/user-attachments/assets/4d56de5b-2425-490d-a5b0-4cbbb80303c4" />
   </td>
   </tr>
