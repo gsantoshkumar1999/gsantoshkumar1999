@@ -270,9 +270,3 @@ A comprehensive social media analytics tool that scrapes user comments from plat
 * **Architecture:** Serverless Microservices pattern deployed via Cloud Build.
 
 <img width="1800" height="932" alt="image" src="https://github.com/user-attachments/assets/8f2e1359-78bd-46d8-bea4-2d468e016c00" />
-
----
-
-<div align="center">
-  Built with ❤️ and ☕ using Google Cloud Platform & Generative AI
-</div>
