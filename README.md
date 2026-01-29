@@ -1,25 +1,6 @@
 # Hi there, I'm G Santosh Kumar 👋
-### Data, AI & ML Architect | GCP Specialist
 
-I am an AI Architect at **[Cloud Ambassadors](https://cloudambassadors.com)** (Premium Google Cloud Partner), specializing in building production-grade Generative AI applications, Machine Learning pipelines, and Cloud Infrastructure. My focus is on transitioning complex AI concepts into scalable, user-centric products.
-
----
-
-## 🛠️ Comprehensive Tech Stack
-
-| Domain | Stack & Tools |
-| :--- | :--- |
-| **Languages** | **Python (3.9+)**, **TypeScript**, JavaScript (ES6+), SQL, Bash |
-| **AI & LLM Ops** | **LangChain**, **Pydantic-AI**, **Gemini (Pro/Flash/Nano/Live)**, Google Vertex AI, Kubeflow Pipelines (KFP), OpenAI, Ollama, HuggingFace |
-| **Backend & API** | **FastAPI** (Async/Await), **Node.js**, Flask, Pydantic, SQLAlchemy, RESTful Design, WebSockets, Webhooks |
-| **Frontend** | **Next.js 14 (App Router)**, **React 18/19**, Vite, TailwindCSS, Three.js, Radix UI, Framer Motion, HTML5 Canvas |
-| **Cloud (GCP)** | **Cloud Run**, **Vertex AI**, **BigQuery**, Cloud Build, Cloud Storage, Firestore, Pub/Sub, Secret Manager, IAM, etc.., |
-| **Data & ML** | **PyTorch**, **YOLOv8**, **Elasticsearch**, Pandas, NumPy, OpenCV, Scikit-learn, BigQuery ML, etc.., |
-| **DevOps & Tools** | **Docker**, Jenkins, Github Actions, Git, Splunk, Logfire |
-
----
-
-## 🚀 Featured Projects
+## Projects
 
 ### 1. [Boxsand Coder Agent](https://github.com/gsantoshkumar1999)
 **An Intelligent AI Developer Workspace**
