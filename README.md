@@ -2,7 +2,7 @@
 
 ## Projects
 
-### 1. [Boxsand Coder Agent](https://github.com/gsantoshkumar1999)
+### 1. Boxsand Coder Agent
 **An Intelligent AI Developer Workspace**
 A VS Code-style browser IDE powered by **Pydantic-AI** and the **Model Context Protocol (MCP)**. It functions as an autonomous coding partner capable of managing file systems, executing git operations, and generating code in real-time.
 
@@ -22,7 +22,7 @@ A VS Code-style browser IDE powered by **Pydantic-AI** and the **Model Context P
 
 <hr>
 
-### 2. Zenith Pod
+### 2. [Zenith](https://boxsand.ai/zenith)
 **Real-Time Voice and Vision AI Consultant**
 
 The Zenith Pod is an advanced interactive assistant powered by Gemini Live that enables natural, fluid voice conversations while sharing live camera feed for real-time vision analysis. It can search the web, generate images, and analyze what it sees — all in one seamless experience.
