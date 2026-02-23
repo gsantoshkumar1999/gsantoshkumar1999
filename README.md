@@ -47,7 +47,28 @@ The Zenith Pod is an advanced interactive assistant powered by Gemini Live that 
 
 <hr>
 
-### 3. [Occupancy Analytics & People Tracking](https://github.com/gsantoshkumar1999)
+### 3. [Swara Pod](https://boxsand.ai/swara)
+**Real-time AI Music Creation Studio**
+
+The Swara Pod is a real-time AI music creation studio that lets users describe a vibe and interactively steer music generation live. It integrates Google Gemini 2.5 Flash for intelligent music planning and Google Lyria RealTime for continuous audio streaming, providing a fully interactive music composition experience.
+
+**⚡ Tech Stack & Architecture:**
+* **Core AI:** Google Gemini 2.5 Flash (vibe analysis, song planning), Google Lyria RealTime (music generation and streaming).
+* **Backend:** Next.js API routes for prompt generation, WebSockets for real-time audio.
+* **Frontend:** React, Tailwind CSS, shadcn/ui components, Web Audio API for playback and visualization.
+* **Architecture:** Component-based with services (MusicService, audioUtils) for WebSocket management, audio pipeline, and stateful React management including debounced updates and error handling.
+
+<table>
+  <tr>
+    <td>
+      <img width="1865" height="860" alt="Swara" src="https://github.com/user-attachments/assets/c4939ff6-cff8-4b10-adcf-a1b9b19cc8f7" />
+    </td>
+</tr>
+</table>
+
+<hr>
+
+### 4. [Occupancy Analytics & People Tracking](https://github.com/gsantoshkumar1999)
 **Enterprise MLOps & Computer Vision Pipeline**
 A comprehensive MLOps-IoT platform designed for automated video surveillance. It automates the training, deployment, and maintenance of computer vision models to track occupancy, demographics (gender, age), and workplace safety in real-time.
 
@@ -88,7 +109,7 @@ A comprehensive MLOps-IoT platform designed for automated video surveillance. It
 
 <hr>
 
-### 4. [Podcraftor](https://boxsand.ai/podcast/podcraftor)
+### 5. [Podcraftor](https://boxsand.ai/podcast/podcraftor)
 **Text-to-Podcast Automation Engine**
 A full-stack application that converts plain text into complete podcast episodes. Utilizes Google TTS with SSML support to generate natural, human-like audio, automating podcast production end-to-end.
 
@@ -115,7 +136,7 @@ A full-stack application that converts plain text into complete podcast episodes
 
 <hr>
 
-### 5. [Audiobook Generator](https://frontend-audiobook-244342848333.us-central1.run.app/)
+### 6. [Audiobook Generator](https://frontend-audiobook-244342848333.us-central1.run.app/)
 **Intelligent Document-to-Audio System**
 An intelligent full-stack solution that processes PDFs and ePUB formats to autonomously structure chapters and generate high-quality audiobooks using Google TTS — surpassing traditional audiobook features offered by platforms like ElevenLabs.
 
@@ -140,7 +161,7 @@ An intelligent full-stack solution that processes PDFs and ePUB formats to auton
 
 <hr>
 
-### 6. [Medical Docs Analyzer](https://boxsand.ai/medicalanalyzer)
+### 7. [Medical Docs Analyzer](https://boxsand.ai/medicalanalyzer)
 **Healthcare Fraud Detection System**
 A smart healthcare document analysis system capable of interpreting diverse medical documents including handwritten prescriptions and discharge summaries. It extracts key KPIs, detects fraud, verifies document legitimacy, and generates contextual follow-up questions.
 
@@ -173,7 +194,7 @@ A smart healthcare document analysis system capable of interpreting diverse medi
 
 <hr>
 
-### 7. [Pixora Studio](https://boxsand.ai/pixora)
+### 8. [Pixora Studio](https://boxsand.ai/pixora)
 **AI-Powered Image and Video Generation Studio**
 A "Photoshop Agent" and Video Generation studio that unifies multiple generative models into a single creative workflow. It handles complex media operations like video trimming and composition directly in the browser.
 
@@ -203,7 +224,7 @@ A "Photoshop Agent" and Video Generation studio that unifies multiple generative
 
 <hr>
 
-### 8. [Live Voice Agent](https://gidev2-973165020902.us-central1.run.app/)
+### 9. [Live Voice Agent](https://gidev2-973165020902.us-central1.run.app/)
 **Real-time 3D AI Interaction**
 An Intelligent live voice agent using Gemini-Live-Voice model. The Agent is integrated with function calling and tool use to take action on behalf of the user, visualized with a reactive 3D avatar.
 
@@ -226,7 +247,7 @@ An Intelligent live voice agent using Gemini-Live-Voice model. The Agent is inte
 
 <hr>
 
-### 9. [Gifinity](https://boxsand.ai/gifinity)
+### 10. [Gifinity](https://boxsand.ai/gifinity)
 **AI Sprite Sheet & GIF Generator**
 A fun App that generates sprite sheet images using Gemini Nano/Pro models and converts them to animated GIFs client-side.
 
@@ -252,7 +273,7 @@ A fun App that generates sprite sheet images using Gemini Nano/Pro models and co
 
 <hr>
 
-### 10. [Podcast Idea Generator](https://boxsand.ai/podcast/ideas)
+### 11. [Podcast Idea Generator](https://boxsand.ai/podcast/ideas)
 **Trend-to-Content Intelligence**
 A sophisticated API-driven application designed to bridge the gap between raw trend data and actionable podcast content. It intelligently combines insights from global Google Trends and internal podcast analytics.
 
@@ -265,7 +286,7 @@ A sophisticated API-driven application designed to bridge the gap between raw tr
 
 <hr>
 
-### 11. [Sentiment Analyzer](https://boxsand.ai/sentiment/analysis)
+### 12. [Sentiment Analyzer](https://boxsand.ai/sentiment/analysis)
 **Social Media Campaign Tracker**
 A comprehensive social media analytics tool that scrapes user comments from platforms like Instagram, YouTube, and Facebook to analyze sentiment trends and track influencer campaign effectiveness.
 
