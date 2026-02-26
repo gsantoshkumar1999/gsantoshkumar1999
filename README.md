@@ -47,10 +47,10 @@ The Zenith Pod is an advanced interactive assistant powered by Gemini Live that 
 
 <hr>
 
-### 3. [Swara Pod](https://boxsand.ai/swara)
+### 3. [Swara](https://boxsand.ai/swara)
 **Real-time AI Music Creation Studio**
 
-The Swara Pod is a real-time AI music creation studio that lets users describe a vibe and interactively steer music generation live. It integrates Google Gemini 2.5 Flash for intelligent music planning and Google Lyria RealTime for continuous audio streaming, providing a fully interactive music composition experience.
+The Swara is a real-time AI music creation studio that lets users describe a vibe and interactively steer music generation live. It integrates Google Gemini 2.5 Flash for intelligent music planning and Google Lyria RealTime for continuous audio streaming, providing a fully interactive music composition experience.
 
 **⚡ Tech Stack & Architecture:**
 * **Core AI:** Google Gemini 2.5 Flash (vibe analysis, song planning), Google Lyria RealTime (music generation and streaming).
