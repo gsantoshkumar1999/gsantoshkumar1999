@@ -88,7 +88,30 @@ A production-grade LLM gateway providing access to 10+ open-source models (Gemma
 
 <hr>
 
-### 5. [Occupancy Analytics & People Tracking](https://github.com/gsantoshkumar1999)
+### 5. GCP Release Notes Newsletter Agent
+**Autonomous AI-Powered Google Cloud Release Intelligence**
+
+An intelligent newsletter automation agent built using Google ADK that monitors Google Cloud release notes, generates concise AI-powered summaries, and delivers beautifully formatted daily newsletters directly to subscribers. The system automatically fetches release updates from BigQuery, summarizes them using Gemini, and distributes them via email through a fully automated Cloud Run and Cloud Scheduler workflow.
+
+**⚡ Tech Stack & Architecture:**
+* **Core AI:** Google ADK, Gemini 2.5 Flash, Prompt Engineering, Tool-based Agent Architecture.
+* **Data Layer:** BigQuery Public Dataset (`google_cloud_release_notes.release_notes`).
+* **Backend:** Python 3.12, FastAPI, Jinja2, Pydantic Settings.
+* **Infrastructure:** Google Cloud Run, Cloud Scheduler, Secret Manager, Artifact Registry.
+* **Communication:** Gmail SMTP with HTML Newsletter Rendering.
+* **Architecture:** Event-driven AI Agent utilizing tool orchestration (release retrieval, content generation, email rendering, and delivery) with deterministic date management and automated scheduling.
+
+<table>
+  <tr>
+    <td>
+      <img width="1000" alt="image" alt="GCP Release Notes Newsletter Agent Architecture" src="https://github.com/user-attachments/assets/fe8b9c14-1e0b-4713-918a-602c7c0b2d6c" />
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+### 6. [Occupancy Analytics & People Tracking](https://github.com/gsantoshkumar1999)
 **Enterprise MLOps & Computer Vision Pipeline**
 A comprehensive MLOps-IoT platform designed for automated video surveillance. It automates the training, deployment, and maintenance of computer vision models to track occupancy, demographics (gender, age), and workplace safety in real-time.
 
@@ -129,7 +152,7 @@ A comprehensive MLOps-IoT platform designed for automated video surveillance. It
 
 <hr>
 
-### 6. [Podcraftor](https://boxsand.ai/podcast/podcraftor)
+### 7. [Podcraftor](https://boxsand.ai/podcast/podcraftor)
 **Text-to-Podcast Automation Engine**
 A full-stack application that converts plain text into complete podcast episodes. Utilizes Google TTS with SSML support to generate natural, human-like audio, automating podcast production end-to-end.
 
@@ -156,7 +179,7 @@ A full-stack application that converts plain text into complete podcast episodes
 
 <hr>
 
-### 7. [Audiobook Generator](https://frontend-audiobook-244342848333.us-central1.run.app/)
+### 8. [Audiobook Generator](https://frontend-audiobook-244342848333.us-central1.run.app/)
 **Intelligent Document-to-Audio System**
 An intelligent full-stack solution that processes PDFs and ePUB formats to autonomously structure chapters and generate high-quality audiobooks using Google TTS — surpassing traditional audiobook features offered by platforms like ElevenLabs.
 
@@ -181,7 +204,7 @@ An intelligent full-stack solution that processes PDFs and ePUB formats to auton
 
 <hr>
 
-### 8. [Medical Docs Analyzer](https://boxsand.ai/medicalanalyzer)
+### 9. [Medical Docs Analyzer](https://boxsand.ai/medicalanalyzer)
 **Healthcare Fraud Detection System**
 A smart healthcare document analysis system capable of interpreting diverse medical documents including handwritten prescriptions and discharge summaries. It extracts key KPIs, detects fraud, verifies document legitimacy, and generates contextual follow-up questions.
 
@@ -214,7 +237,7 @@ A smart healthcare document analysis system capable of interpreting diverse medi
 
 <hr>
 
-### 9. [Pixora Studio](https://boxsand.ai/pixora)
+### 10. [Pixora Studio](https://boxsand.ai/pixora)
 **AI-Powered Image and Video Generation Studio**
 A "Photoshop Agent" and Video Generation studio that unifies multiple generative models into a single creative workflow. It handles complex media operations like video trimming and composition directly in the browser.
 
@@ -244,7 +267,7 @@ A "Photoshop Agent" and Video Generation studio that unifies multiple generative
 
 <hr>
 
-### 10. [Live Voice Agent](https://gidev2-973165020902.us-central1.run.app/)
+### 11. [Live Voice Agent](https://gidev2-973165020902.us-central1.run.app/)
 **Real-time 3D AI Interaction**
 An Intelligent live voice agent using Gemini-Live-Voice model. The Agent is integrated with function calling and tool use to take action on behalf of the user, visualized with a reactive 3D avatar.
 
@@ -267,7 +290,7 @@ An Intelligent live voice agent using Gemini-Live-Voice model. The Agent is inte
 
 <hr>
 
-### 11. [Gifinity](https://boxsand.ai/gifinity)
+### 12. [Gifinity](https://boxsand.ai/gifinity)
 **AI Sprite Sheet & GIF Generator**
 A fun App that generates sprite sheet images using Gemini Nano/Pro models and converts them to animated GIFs client-side.
 
@@ -293,7 +316,7 @@ A fun App that generates sprite sheet images using Gemini Nano/Pro models and co
 
 <hr>
 
-### 12. [Podcast Idea Generator](https://boxsand.ai/podcast/ideas)
+### 13. [Podcast Idea Generator](https://boxsand.ai/podcast/ideas)
 **Trend-to-Content Intelligence**
 A sophisticated API-driven application designed to bridge the gap between raw trend data and actionable podcast content. It intelligently combines insights from global Google Trends and internal podcast analytics.
 
@@ -306,7 +329,7 @@ A sophisticated API-driven application designed to bridge the gap between raw tr
 
 <hr>
 
-### 13. [Sentiment Analyzer](https://boxsand.ai/sentiment/analysis)
+### 14. [Sentiment Analyzer](https://boxsand.ai/sentiment/analysis)
 **Social Media Campaign Tracker**
 A comprehensive social media analytics tool that scrapes user comments from platforms like Instagram, YouTube, and Facebook to analyze sentiment trends and track influencer campaign effectiveness.
 
